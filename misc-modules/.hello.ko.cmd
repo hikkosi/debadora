@@ -1,0 +1,1 @@
+cmd_/home/kei/debadora/examples/misc-modules/hello.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0-24-generic/scripts/module-common.lds --build-id  -o /home/kei/debadora/examples/misc-modules/hello.ko /home/kei/debadora/examples/misc-modules/hello.o /home/kei/debadora/examples/misc-modules/hello.mod.o

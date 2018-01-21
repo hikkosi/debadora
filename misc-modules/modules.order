@@ -1,0 +1,11 @@
+kernel//home/kei/debadora/examples/misc-modules/hello.ko
+kernel//home/kei/debadora/examples/misc-modules/hellop.ko
+kernel//home/kei/debadora/examples/misc-modules/seq.ko
+kernel//home/kei/debadora/examples/misc-modules/jit.ko
+kernel//home/kei/debadora/examples/misc-modules/jiq.ko
+kernel//home/kei/debadora/examples/misc-modules/sleepy.ko
+kernel//home/kei/debadora/examples/misc-modules/complete.ko
+kernel//home/kei/debadora/examples/misc-modules/silly.ko
+kernel//home/kei/debadora/examples/misc-modules/faulty.ko
+kernel//home/kei/debadora/examples/misc-modules/kdatasize.ko
+kernel//home/kei/debadora/examples/misc-modules/kdataalign.ko
